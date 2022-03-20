@@ -6,11 +6,7 @@ public class LoginPageTest {
 		
 		System.out.println("test1 - LP");
 		
-		String un = "admin";
-		String pwd = "admin";
 		
-		System.out.println("Logged in ..");
-
 
 	}
 
